@@ -1,0 +1,25 @@
+body {
+  background-position: center;
+  background-size: cover;
+}
+
+.heading {
+  width: 100%;
+  margin: 0px;
+  color: rgb(255, 255, 255);
+  font-size: 35px !important;
+}
+#status,
+#number_of_objects {
+  font-size: 15px;
+}
+.note {
+  font-size: 20px !important;
+  color: black;
+  font-family: "Lobster Two", cursive;
+}
+canvas {
+  box-shadow: 5px 5px 5px lightgrey;
+  border-radius: 10px;
+  margin-top: 120px;
+}
